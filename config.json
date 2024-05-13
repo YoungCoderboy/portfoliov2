@@ -1,0 +1,80 @@
+{
+  "ascii": [
+    "░▒▓███████▓▒░░ ▒▓████████▓▒ ░▒▓████████▓▒ ░▒▓███████▓▒░",
+    "  ▓█▓▒░░▒▓█▓▒░ ▒▓█▓▒░       ░▒▓█▓▒░       ░▒▓█▓▒░░▒▓█▓▒░",
+    "  ▓█▓▒░░▒▓█▓▒░ ▒▓█▓▒░       ░▒▓█▓▒░       ░▒▓█▓▒░░▒▓█▓▒░",
+    "  ▓█▓▒░░▒▓█▓▒░ ▒▓██████▓▒░  ░▒▓██████▓▒░  ░▒▓███████▓▒░",
+    "  ▓█▓▒░░▒▓█▓▒░ ▒▓█▓▒░       ░▒▓█▓▒░       ░▒▓█▓▒░",
+    "  ▓█▓▒░░▒▓█▓▒░ ▒▓█▓▒░       ░▒▓█▓▒░       ░▒▓█▓▒░",
+    "░▒▓███████▓▒░░ ▒▓████████▓▒ ░▒▓████████▓▒ ░▒▓█▓▒░"
+  ],
+  "title": "PShell",
+  "username": "visitor",
+  "hostname": "root",
+  "dir": "",
+  "password": "050823",
+  "repoLink": "https://github.com/YoungCoderboy/pshell",
+  "social": {
+    "email": "onkardeep48@gmail.com",
+    "github": "https://github.com/YoungCoderboy/",
+    "linkedin": "https://linkedin.com/in/deeponkar/"
+  },
+  "aboutGreeting": "Hi stranger. Welcome to Portfolio Shell.",
+  "problems": [
+    [
+      "leetcode",
+      "check out my DSA skills",
+      "https://leetcode.com/thunderdarksoul/"
+    ],
+    [
+      "codeforces",
+      "what about competitive programming",
+      "https://codeforces.com/profile/deep_coder360"
+    ]
+  ],
+  "projects": [
+    [
+      "meddapp",
+      "Med-Dapp is decentralized medical web application made with MERN stack and NextJS.",
+      "https://github.com/YoungCoderboy/med-Dapp"
+    ],
+    [
+      "estore",
+      "This was simple estore build using react with functionality of sorting filtering the product.",
+      "https://github.com/YoungCoderboy/estore"
+    ],
+    [
+      "deepai",
+      "Build vs code extension which uses LLM api provide you instant solution to query, 500+ downloads",
+      "https://marketplace.visualstudio.com/items?itemName=DemonSlayer.deep-ai"
+    ],
+    [
+      "backend",
+      "This project is implementation of JWT verification, secure routing, forgot password, signup, login, and email verification.",
+      "https://github.com/YoungCoderboy/natour"
+    ]
+  ],
+  "colors": {
+    "background": "#040024",
+    "foreground": "#F8DDE5",
+    "banner": "#FF9951",
+    "border": {
+      "visible": true,
+      "color": "#adafff"
+    },
+    "prompt": {
+      "default": "#A5A7A7",
+      "user": "#FE6BC9",
+      "host": "#70FDFF",
+      "input": "#FF7685"
+    },
+    "link": {
+      "text": "#ccfff6",
+      "highlightColor": "#38ffde",
+      "highlightText": "#0C0623"
+    },
+    "commands": {
+      "textColor": "#FD9BDB"
+    }
+  }
+}
